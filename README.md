@@ -1,5 +1,5 @@
 # pi-controller
-<h1>Remote Control Aplication for RPI 4 B</h1><br/>
+<h1>Remote Control Application for RPI 4 B</h1><br/>
 
 <h3>Contents</h3><br/>
 Contains the receiver and controller application. The receiver is a python application and the controller <br/>
@@ -21,9 +21,12 @@ You should now have established a connection to the db, and the listener should 
 This is a very limited release, there is only capalities for sending commands to use the FM_Transmitter, console commands and a shutdown command. <br/>
 This project is more of a proof of concept then it is anything for practical application, but in the future could certainly grow <br/>
 in efficiency and capability to be put to use by RPI enthusiasts.
+<br/>
 
-<small>Yes, i am well aware that SSH, VNC, RDP, etc.. are a thing. Like i said, this is just a proof of concept</small><br/>
-<small>and a cool little hobby project that myself and others can mess around with. It was never intended for fresh headless</small></br>
-<small>connection to the rpi, even though with a few workarounds, could be used as such.</small>
+<b>
+Yes, i am well aware that SSH, VNC, RDP, etc.. are a thing. Like i said, this is just a proof of concept<br/>
+and a cool little hobby project that myself and others can mess around with. It was never intended for fresh headless</br>
+connection to the rpi, even though with a few workarounds, could be used as such.
+</b>
 
 
