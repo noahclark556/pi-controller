@@ -1,0 +1,2 @@
+tran = None
+shellCmd = ""

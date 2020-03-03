@@ -1,0 +1,7 @@
+BT: 
+sudo apt-get install bluez pulseaudio-module-bluetooth python-gobject python-gobject-2 bluez-tools
+sudo nano /etc/bluetooth/main.conf
+sudo nano /boot/config.txt
+raspi-config > advanced > audio > force aux
+pulseaudio -D
+bluetoothctl
